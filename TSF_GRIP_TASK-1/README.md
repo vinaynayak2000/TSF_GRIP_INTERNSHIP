@@ -1,4 +1,4 @@
-## Predicting the scores
+## Predicting Student scores
 Business Problem: Predict the percentage of an student based on the no. of study hours using Supervised ML
 
 # Steps followed
